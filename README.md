@@ -10,5 +10,9 @@ Inside dev.js add initialise four variable as ,
     EMAIL:"http:localhost:3000"
 
 **NOTE**
-    This version uses sendgrid app for sending mail after User Signup
+    This version of instagram contains -
+        1. User signup with Email
+        2. Forgot password link with Email
+        3. User search option
+        
     
